@@ -16,4 +16,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TIME_RANGE: all_time # 设置时间范围
+          LANG_COUNT: 10 #显示语言数量
+          SHOW_TIME: true # 	显示每种语言所花费的时间
+          SHOW_TOTAL: true # 显示总编码时间
           
