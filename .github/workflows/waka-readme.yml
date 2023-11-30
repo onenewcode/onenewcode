@@ -16,7 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: onenewcode/mystudy
           TIME_RANGE: all_time # 设置时间范围
           LANG_COUNT: 20 #显示语言数量
           SHOW_TIME: true # 	显示每种语言所花费的时间
