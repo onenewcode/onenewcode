@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?onenewcode=stacklens&show_icons=true&theme=radical)
+<!-- 文档地址  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onenewcode&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 文档地址  [https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md](https://github.com/athul/waka-readme) -->
 <!--START_SECTION:waka-->
 
 ```txt
