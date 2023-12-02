@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Welcome to my homepag!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Welcome to my homepag!&center=true&size=27"> </a> </h1>
 
 I am a student and learn all kinds of interesting techniques at school。I will apply what I have learned in my life
 
