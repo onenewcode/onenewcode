@@ -1,11 +1,41 @@
-# Welcome👋
-I am a student and learn all kinds of interesting techniques at school。
-# Detail
-<!-- 文档地址  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onenewcode&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 文档地址  [https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md](https://github.com/athul/waka-readme) -->
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Welcome to my homepag!&center=true&size=27"> </a> </h1>
+
+I am a student and learn all kinds of interesting techniques at school。I will apply what I have learned in my life
+
+<h2 align="center"> GitHub Overview </h2>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+    <!-- 添加统计信息卡片 文档地址  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
+      <img align="center" style="padding=0;" src="https://streak-stats.demolab.com/?user=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+    <!-- 添加语言统计 文档地址  [https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md](https://github.com/athul/waka-readme) -->
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=onenewcode&count_private=true&show_icons=true&theme=react" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center" style="padding=0;">
+    <!-- 添加统计信息卡片 文档地址  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+    <!-- 添加语言统计 文档地址  [https://github.com/songquanpeng/stats-cards -->
+      <img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/csdn?id=studycodeday&theme=react"    width="299"
+      height="500"/>
+    </td>
+  </tr>
+</table>
+
+
+
 <!--START_SECTION:waka-->
+<!-- 添加奖牌 文档地址  https://github.com/ryo-ma/github-profile-trophy/-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=onenewcode)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onenewcode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-601-blue)
