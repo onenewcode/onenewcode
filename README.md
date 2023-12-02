@@ -21,8 +21,7 @@ I am a student and learn all kinds of interesting techniques at school。I will 
     </td>
     <td align="center" style="padding=0;width=50%;">
     <!-- 添加语言统计 文档地址  [https://github.com/songquanpeng/stats-cards -->
-      <img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/csdn?id=studycodeday&theme=react"    width="299"
-      height="500"/>
+      <img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/csdn?id=studycodeday&theme=react"/>
     </td>
   </tr>
 </table>
