@@ -98,11 +98,4 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_languages_other: yes
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: waka_2ef03c2a-fc0e-4457-b951-df7158d9382a
+
