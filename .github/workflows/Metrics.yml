@@ -20,6 +20,8 @@ jobs:
           #  - read:user
           #  - read:org
           #  - repo
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -31,13 +33,12 @@ jobs:
           user: onenewcode
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
           config_timezone: Asia/Shanghai
-          plugin_16personalities: yes
-          plugin_16personalities_sections: personality
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -60,34 +61,31 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
-          plugin_notable_types: commit
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Sponsor Me!
+          plugin_projects: yes
+          plugin_projects_limit: 4
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount, sponsorships
           plugin_sponsorships_size: 24
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
           plugin_starlists: yes
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
@@ -95,12 +93,6 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
@@ -108,8 +100,9 @@ jobs:
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
+          plugin_wakatime_languages_other: yes
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: onenewcode
+          plugin_wakatime_user: waka_2ef03c2a-fc0e-4457-b951-df7158d9382a
