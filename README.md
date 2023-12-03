@@ -17,7 +17,7 @@ I am a student and learn all kinds of interesting techniques at school。I will 
     <tr>
     <td align="center" style="padding=0;">
     <!-- 添加统计信息卡片 文档地址  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react&hide=javascript" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react&hide=javascript,html,vim script" />
     </td>
     <td align="center" style="padding=0;width=50%;">
     <!-- 添加语言统计 文档地址  [https://github.com/songquanpeng/stats-cards -->
