@@ -115,4 +115,3 @@ JavaScript               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 03/12/2023 06:38:04 UTC
 <!--END_SECTION:waka-->
 
-<img src=".\github-metrics.svg">
