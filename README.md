@@ -34,13 +34,13 @@ I am a student and learn all kinds of interesting techniques at school。I will 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-833-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-844-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-194.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 145.2 kB Used in GitHub's Storage 
+> 📦 144.0 kB Used in GitHub's Storage 
  > 
 > 🏆 170 Contributions in the Year 2023
  > 
@@ -115,6 +115,6 @@ JavaScript               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/onenewcode/onenewcode/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 00:42:26 UTC
+ Last Updated on 04/12/2023 18:34:36 UTC
 <!--END_SECTION:waka-->
 
