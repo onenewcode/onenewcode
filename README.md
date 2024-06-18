@@ -42,8 +42,6 @@ I am a student and learn all kinds of interesting techniques at school。I will 
 
 > 📦 270.7 kB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -106,6 +104,6 @@ Shell                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/onenewcode/onenewcode/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2024 18:37:57 UTC
+ Last Updated on 18/06/2024 18:39:03 UTC
 <!--END_SECTION:waka-->
 
