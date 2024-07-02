@@ -32,7 +32,7 @@ I am a student and learn all kinds of interesting techniques at school。I will 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onenewcode&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,6 +41,8 @@ I am a student and learn all kinds of interesting techniques at school。I will 
 **🐱 My GitHub Data** 
 
 > 📦 270.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 287 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,6 +116,6 @@ Shell                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/onenewcode/onenewcode/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2024 18:38:57 UTC
+ Last Updated on 02/07/2024 18:38:29 UTC
 <!--END_SECTION:waka-->
 
