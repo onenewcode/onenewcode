@@ -11,7 +11,7 @@
     </td>
         <td align="center" style="padding=0;">
     <!-- 添加统计信息卡片 文档地址  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react&hide=javascript,html,css,jupyte" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react&hide=javascript,html,css,jupyte%20notebook" />
     </td>
   </tr>
 </table>
