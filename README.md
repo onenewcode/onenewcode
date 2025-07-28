@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome </h1>
 
-I am a student and learn all kinds of interesting techniques at school。I will apply what I have learned in my life
+
 
 <h2 align="center"> GitHub Overview </h2>
 <table>
@@ -11,7 +11,7 @@ I am a student and learn all kinds of interesting techniques at school。I will 
     </td>
         <td align="center" style="padding=0;">
     <!-- 添加统计信息卡片 文档地址  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react&hide=javascript,html,css" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=react&hide=javascript,html,css,Jupyter Notebook" />
     </td>
   </tr>
 </table>
