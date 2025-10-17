@@ -26,7 +26,7 @@
       <sub><b>Profile Stats</b></sub>
     </td>
     <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&size_weight=0.5&count_weight=0.5" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&size_weight=0.02&count_weight=0.6" />
       <br/>
       <sub><b>Top Languages</b></sub>
     </td>
