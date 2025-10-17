@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=onenewcode&theme=radical&hide_border=true&bg_color=0D1117" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=onenewcode&theme=radical&hide_border=true&bg_color=0D1117&langs_count=16" />
       <br/>
       <sub><b>Weekly Coding Time</b></sub>
     </td>
