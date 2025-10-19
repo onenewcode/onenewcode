@@ -51,7 +51,7 @@
       <sub><b>Weekly Coding Time</b></sub>
     </td>
     <td align="center" width="50%">
-      <img align="center" src="https://wakatime.com/share/@018c1b73-7a62-424e-b5e2-e8998f4d3b12/ba7309bd-a160-4904-99c8-83565abc80af.svg" />
+      <img align="center" src="https://wakatime.com/share/@onenewcode/0a7e1da8-ca3a-4857-9548-748e76426850.svg" />
       <br/>
       <sub><b>Detailed Analytics</b></sub>
     </td>
