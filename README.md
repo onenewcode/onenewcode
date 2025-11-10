@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Rust & Go Enthusiast | Python Developer
+### 🚀  Rust & Go Developer| Python Enthusiast 
 
 [![Portfolio](https://img.shields.io/badge/🌐-Personal%20Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/your-profile)
