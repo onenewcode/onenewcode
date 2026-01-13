@@ -1,14 +1,8 @@
 # 🌟 Welcome to My GitHub Profile!
 
-<div align="center">
-
-### 🚀  Rust & Go Developer| Python Enthusiast 
-
-[![Portfolio](https://img.shields.io/badge/🌐-Personal%20Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/📧-Contact%20Me-D14836?style=for-the-badge)](mailto:your-email@example.com)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=22FF22&width=435&lines=Rust+%26+Go+Developer;System+Programming+Enthusiast;Web+Development+Explorer" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -21,42 +15,21 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=onenewcode&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=onenewcode&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
       <br/>
       <sub><b>Profile Stats</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenewcode&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&size_weight=0.5&count_weight=0.6&exclude_repo=study,chat" />
-      <br/>
-      <sub><b>Top Languages</b></sub>
     </td>
   </tr>
 </table>
 
 ### 🏆 GitHub Achievements
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=onenewcode&column=7&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy-eight.vercel.app/?username=onenewcode&column=7&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onenewcode&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onenewcode&theme=radical&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ⏰ Coding Time
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=onenewcode&theme=radical&hide_border=true&bg_color=0D1117&langs_count=16" />
-      <br/>
-      <sub><b>Weekly Coding Time</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img align="center" src="https://wakatime.com/share/@onenewcode/0a7e1da8-ca3a-4857-9548-748e76426850.svg" />
-      <br/>
-      <sub><b>Detailed Analytics</b></sub>
-    </td>
-  </tr>
-</table>
 
 </div>
 
@@ -72,15 +45,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 🎨 Frontend Development
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Systems
-![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,15 +61,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 🚀 What I'm Working On
-
-- 🔭 **Systems Programming**: Building high-performance applications with Rust
-- 🌐 **Web Services**: Developing scalable backend systems with Go and Python
-- ⚡ **Full Stack Projects**: Creating modern web applications with React/TypeScript
-- 🛠️ **DevOps**: Containerization and cloud infrastructure with Docker & AWS
 
 ---
 
