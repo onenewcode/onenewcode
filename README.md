@@ -1,86 +1,62 @@
-# 🌟 Welcome to My GitHub Profile!
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=22FF22&width=435&lines=Rust+%26+Go+Developer;System+Programming+Enthusiast;Web+Development+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0%3A020403%2C65%3A101c16%2C100%3A568f70&amp;text=onenewcode&amp;fontColor=EDF9F1&amp;fontSize=68&amp;fontAlignY=40&amp;desc=RUST%20%2F%20GPU%20COMPUTING%20%2F%20OPEN%20SOURCE&amp;descSize=16&amp;descAlignY=61" width="100%" alt="onenewcode — Rust, GPU computing, and open source." />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1600&amp;color=9FE8BF&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=42&amp;lines=Rust%20systems.%20GPU%20computing.%3BPerformance.%20Precision.%20Concurrency.%3BContributing%20across%20the%20Rust%20ecosystem." alt="Rust systems. GPU computing. Performance, precision, and concurrency. Contributing across the Rust ecosystem." />
+</p>
 
+<p align="center">
+  <strong>Rust developer focused on GPU computing, model inference, and asynchronous systems.</strong><br />
+  CUDA kernels · Numerical correctness · Concurrent infrastructure
+</p>
 
-## 📊 GitHub Analytics
+<h2 align="center">🧰 Tech stack</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,py,docker,kubernetes,postgres,redis,git&amp;theme=dark&amp;perline=8" alt="Rust, Go, Python, Docker, Kubernetes, PostgreSQL, Redis, and Git." />
+  </a>
+</p>
 
-### 🎯 Coding Statistics
+<p align="center">
+  <img src="https://img.shields.io/badge/CUDA-0B100D?style=for-the-badge&amp;logo=nvidia&amp;logoColor=B1D58B" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Burn-0B100D?style=for-the-badge&amp;logo=rust&amp;logoColor=E5B99D" alt="Burn" />
+  <img src="https://img.shields.io/badge/CubeCL-0B100D?style=for-the-badge&amp;logo=rust&amp;logoColor=BE9FF5" alt="CubeCL" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=onenewcode&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-      <br/>
-      <sub><b>Profile Stats</b></sub>
-    </td>
-  </tr>
-</table>
+<h2 align="center">🌐 Open source contributions</h2>
 
-### 🏆 GitHub Achievements
+<p align="center">Contributing across GPU computing, Rust infrastructure, and developer tools.</p>
 
-[![GitHub Trophies](https://github-profile-trophy-eight.vercel.app/?username=onenewcode&column=7&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/tracel-ai/burn"><img src="https://img.shields.io/badge/Burn-0B100D?style=for-the-badge&amp;logo=github&amp;logoColor=e5b99d" alt="Burn" /></a>
+  <a href="https://github.com/apache/asyncband"><img src="https://img.shields.io/badge/Apache%20AsyncBand-0B100D?style=for-the-badge&amp;logo=github&amp;logoColor=a8cfff" alt="Apache AsyncBand" /></a>
+  <a href="https://github.com/mxsm/rocketmq-rust"><img src="https://img.shields.io/badge/RocketMQ%20Rust-0B100D?style=for-the-badge&amp;logo=github&amp;logoColor=c4b5fd" alt="RocketMQ Rust" /></a>
+</p>
 
-### 📈 Activity Graph
+<p align="center">
+  <a href="https://github.com/SeaQL/sea-orm"><img src="https://img.shields.io/badge/SeaORM-0B100D?style=for-the-badge&amp;logo=github&amp;logoColor=99dfcc" alt="SeaORM" /></a>
+  <a href="https://github.com/t8y2/dbx"><img src="https://img.shields.io/badge/dbx-0B100D?style=for-the-badge&amp;logo=github&amp;logoColor=ebcf9b" alt="dbx" /></a>
+  <a href="https://github.com/YdrMaster/operators-rs"><img src="https://img.shields.io/badge/operators--rs-0B100D?style=for-the-badge&amp;logo=github&amp;logoColor=c1dd9d" alt="operators-rs" /></a>
+  <a href="https://github.com/YdrMaster/learn-flash-attn"><img src="https://img.shields.io/badge/CUDA%20Flash%20Attention-0B100D?style=for-the-badge&amp;logo=nvidia&amp;logoColor=B1D58B" alt="Contributions to CUDA Flash Attention." /></a>
+</p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onenewcode&theme=radical&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">🏆 GitHub trophies</h2>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=onenewcode&amp;theme=darkhub&amp;no-frame=true&amp;column=3&amp;row=1&amp;margin-w=12&amp;title=Repositories,Commits,PullRequest" width="400" alt="GitHub trophies for repositories, commits, and pull requests." />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=onenewcode&amp;theme=darkhub&amp;no-frame=true&amp;column=3&amp;row=1&amp;margin-w=12&amp;title=Stars,Followers,Reviews" width="400" alt="GitHub trophies for stars, followers, and code reviews." />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/onenewcode?tab=overview">GitHub activity</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/onenewcode?tab=followers">Connect on GitHub</a>
+</p>
 
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-### 💻 Core Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-### ⚙️ Backend & Systems
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect!
-**Passionate about systems programming and web development? Let's build something amazing together!** 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/onenewcode?label=Follow&style=social)](https://github.com/onenewcode)
-![Visitors](https://komarev.com/ghpvc/?username=onenewcode&color=blueviolet&style=flat-square)
-
-⭐ **If you like what you see, don't forget to star some repositories!**
-
-</div>
-
----
-
-<div align="center">
-
-**"The best performance improvement is the transition from the nonworking state to the working state."** - J. Osterhout
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;color=0%3A020403%2C65%3A101c16%2C100%3A568f70" width="100%" alt="Dark green wave footer." />
